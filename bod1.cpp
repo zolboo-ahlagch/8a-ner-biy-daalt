@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// RGB7011
 int main(){
 	int a,b,sec;
 	scanf("%d",&sec);
